@@ -12,6 +12,7 @@
     background: #FF900E;
     margin-bottom: 50px;
     color: #fff;
+     cursor: pointer;
 }
 .primare_button:hover{
     background: #fff;
